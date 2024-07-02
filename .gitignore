@@ -3,3 +3,6 @@
 **pycache**
 logs
 dataset
+artifacts
+runs
+lightning_logs

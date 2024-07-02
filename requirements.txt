@@ -3,3 +3,7 @@ numpy==1.26.4
 pandas==2.2.2
 streamlit==1.33.0
 requests
+seaborn
+matplotlib
+torch==2.1.2
+lightning==2.3.0
