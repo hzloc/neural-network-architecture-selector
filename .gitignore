@@ -6,3 +6,5 @@ dataset
 artifacts
 runs
 lightning_logs
+.env
+wandb
