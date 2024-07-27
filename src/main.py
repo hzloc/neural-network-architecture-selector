@@ -18,7 +18,7 @@ if __name__ == "__main__":
     article_collection = ArticleCollection()
     searcher = Search(count=args.count, get_all=args.get_all)
     if  args.api_key:
-    # scopus
+        # scopus
         articles["scopus"] = searcher.search_scopus(
             api_key=args.api_key,
             keywords=args.search,
